@@ -34,9 +34,9 @@
 
 **5. Ver Departamentos**
 
-  Acción: Este botón abre una ventana que muestra gráficos y estadísticas relacionadas con los departamentos de la organización.
+  Acción: Este botón abre una ventana que muestra una lista de todos los departamentos de la organización.
   
-  ¿Qué hace?: Proporciona una vista general sobre los departamentos, incluyendo datos como la cantidad de empleados por área, distribución de antigüedad, entre otros.
+  ¿Qué hace?: Proporciona una vista general sobre los departamentos.
 
 **6. Salir**
 
