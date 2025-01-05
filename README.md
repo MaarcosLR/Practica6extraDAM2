@@ -4,59 +4,40 @@
 
 **Iniciar la Aplicación**
 
-  Al abrir la aplicación, verás una ventana con varios botones organizados en 3 filas y 3 columnas. La interfaz está diseñada para que puedas acceder rápidamente a las diferentes funciones.
+  Al abrir la aplicación, verás una ventana con varios botones organizados en 3 filas y 2 columnas. La interfaz está diseñada para que puedas acceder rápidamente a las diferentes funciones.
 
 **Descripción de los Botones**
 
 **1. Añadir Empleados**
 
-  Acción: Al hacer clic en este botón, se abrirá una ventana donde podrás ingresar la información de un nuevo empleado.
+    Acción: Al hacer clic en este botón, se abrirá una ventana donde podrás ingresar la información de un nuevo empleado.
 
-  ¿Qué hace?: Permite registrar nuevos empleados en el sistema, proporcionando detalles como nombre, cargo, etc.
+    ¿Qué hace?: Permite registrar nuevos empleados en el sistema, completando campos como nombre, departamento, entre otros.
 
-**2. Eliminar Empleados**
+**2. Subir Foto de Empleado**
 
-  Acción: Este botón abre una ventana que te permite seleccionar y eliminar un empleado de la base de datos.
+    Acción: Al hacer clic en este botón, se abrirá una interfaz para seleccionar y cargar una foto para un empleado específico.
 
-  ¿Qué hace?: Permite eliminar a un empleado de la lista de empleados registrados.
+    ¿Qué hace?: Permite asociar una imagen al perfil de un empleado, ayudando a identificarlo visualmente en el sistema.
 
-**3. Editar Empleados**
+**3. Añadir Departamentos**
 
-  Acción: Al hacer clic aquí, podrás buscar a un empleado y modificar su información (nombre, cargo, etc.).
+    Acción: Este botón abre una ventana donde podrás ingresar el nombre y otros datos relevantes de un nuevo departamento.
 
-  ¿Qué hace?: Permite editar los datos de un empleado ya registrado en el sistema.
+    ¿Qué hace?: Permite ampliar la lista de departamentos registrados en la organización, adaptando el sistema a cambios en la estructura organizativa.
 
-**4. Ver Lista de Empleados**
+**4. Generar Informes**
 
-  Acción: Al presionar este botón, se abrirá una ventana con la lista completa de todos los empleados registrados.
+    Acción: Al presionar este botón, tendrás acceso a una ventana para personalizar y generar informes sobre empleados o departamentos.
 
-  ¿Qué hace?: Muestra todos los empleados que están actualmente en la base de datos.
+    ¿Qué hace?: Ofrece opciones para crear documentos o gráficos informativos, como estadísticas de personal o análisis departamentales.
 
-**5. Subir Foto de Empleado**
+**5. Ver Departamentos**
 
-  Acción: Al hacer clic, podrás cargar una foto para un empleado específico.
+  Acción: Este botón abre una ventana que muestra gráficos y estadísticas relacionadas con los departamentos de la organización.
+  ¿Qué hace?: Proporciona una vista general sobre los departamentos, incluyendo datos como la cantidad de empleados por área, distribución de antigüedad, entre otros.
 
-  ¿Qué hace?: Permite agregar o cambiar la foto de un empleado.
-
-**6. Gestionar Departamentos**
-
-  Acción: Al hacer clic en este botón, accederás a una ventana para gestionar los departamentos dentro de la organización.
-
-  ¿Qué hace?: Permite agregar, editar o eliminar departamentos dentro de la empresa.
-
-**7. Generar Informes**
-
-  Acción: Al presionar este botón, podrás generar informes relacionados con los empleados o los departamentos.
-
-  ¿Qué hace?: Te permite generar informes sobre los empleados, como estadísticas o resúmenes de información.
-
-**8. Ver Estadísticas**
-
-  Acción: Este botón abre una ventana que muestra estadísticas relacionadas con los empleados y la organización.
-
-  ¿Qué hace?: Muestra gráficos y estadísticas sobre la gestión de empleados, como el número de empleados por departamento, antigüedad, entre otros.
-
-**9. Salir**
+**6. Salir**
 
   Acción: Este botón cierra la aplicación.
 
