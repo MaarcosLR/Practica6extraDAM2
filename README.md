@@ -10,27 +10,27 @@
 
 **1. Añadir Empleados**
 
-    Acción: Al hacer clic en este botón, se abrirá una ventana donde podrás ingresar la información de un nuevo empleado.
+  Acción: Al hacer clic en este botón, se abrirá una ventana donde podrás ingresar la información de un nuevo empleado.
 
-    ¿Qué hace?: Permite registrar nuevos empleados en el sistema, completando campos como nombre, departamento, entre otros.
+  ¿Qué hace?: Permite registrar nuevos empleados en el sistema, completando campos como nombre, departamento, entre otros.
 
 **2. Subir Foto de Empleado**
 
-    Acción: Al hacer clic en este botón, se abrirá una interfaz para seleccionar y cargar una foto para un empleado específico.
+  Acción: Al hacer clic en este botón, se abrirá una interfaz para seleccionar y cargar una foto para un empleado específico.
 
-    ¿Qué hace?: Permite asociar una imagen al perfil de un empleado, ayudando a identificarlo visualmente en el sistema.
+  ¿Qué hace?: Permite asociar una imagen al perfil de un empleado, ayudando a identificarlo visualmente en el sistema.
 
 **3. Añadir Departamentos**
 
-    Acción: Este botón abre una ventana donde podrás ingresar el nombre y otros datos relevantes de un nuevo departamento.
+   Acción: Este botón abre una ventana donde podrás ingresar el nombre y otros datos relevantes de un nuevo departamento.
 
-    ¿Qué hace?: Permite ampliar la lista de departamentos registrados en la organización, adaptando el sistema a cambios en la estructura organizativa.
+  ¿Qué hace?: Permite ampliar la lista de departamentos registrados en la organización, adaptando el sistema a cambios en la estructura organizativa.
 
 **4. Generar Informes**
 
-    Acción: Al presionar este botón, tendrás acceso a una ventana para personalizar y generar informes sobre empleados o departamentos.
+  Acción: Al presionar este botón, tendrás acceso a una ventana para personalizar y generar informes sobre empleados o departamentos.
 
-    ¿Qué hace?: Ofrece opciones para crear documentos o gráficos informativos, como estadísticas de personal o análisis departamentales.
+  ¿Qué hace?: Ofrece opciones para crear documentos o gráficos informativos, como estadísticas de personal o análisis departamentales.
 
 **5. Ver Departamentos**
 
