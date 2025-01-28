@@ -1,12 +1,12 @@
 # Guía De Usuario
 
-**¡Bienvenido a la aplicación de Gestión Directiva! Esta herramienta está diseñada para ayudar a gestionar empleados, departamentos y generar informes dentro de una organización. A continuación, te explicamos cómo usar cada uno de los botones disponibles en la interfaz.**
+### ¡Bienvenido a la aplicación de Gestión Directiva! Esta herramienta está diseñada para ayudar a gestionar empleados, departamentos y generar informes dentro de una organización. A continuación, te explicamos cómo usar cada uno de los botones disponibles en la interfaz.
 
-**Iniciar la Aplicación**
+### Iniciar la Aplicación
 
-  Al abrir la aplicación, verás una ventana con varios botones organizados en 3 filas y 2 columnas. La interfaz está diseñada para que puedas acceder rápidamente a las diferentes funciones.
+- Al abrir la aplicación, verás una ventana con varios botones organizados en 3 filas y 2 columnas. La interfaz está diseñada para que puedas acceder rápidamente a las diferentes funciones.
 
-**Descripción de los Botones**
+### Descripción de los Botones
 
 **1. Añadir Empleados**
 
