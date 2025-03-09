@@ -43,7 +43,7 @@ public class DepartmentController {
         }
     }
 
-    private boolean checkDepartmentExists(String nombre_departamento) throws SQLException {
+    public boolean checkDepartmentExists(String nombre_departamento) throws SQLException {
         String sql = "SELECT 1 FROM Departamentos WHERE LOWER(nombre_departamento) = LOWER(?)";
         try (Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);
              PreparedStatement statement = connection.prepareStatement(sql)) {

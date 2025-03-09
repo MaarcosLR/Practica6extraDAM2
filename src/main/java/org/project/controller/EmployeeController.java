@@ -88,7 +88,7 @@ public class EmployeeController {
     }
 
     // Método para verificar si un empleado con el DNI ya existe en la base de datos
-    private boolean checkEmployeeExists(String dni) throws SQLException {
+    public boolean checkEmployeeExists(String dni) throws SQLException {
         String sql = "SELECT 1 FROM Empleados WHERE dni = ? LIMIT 1"; // La consulta solo busca si existe un registro
         try (Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);
              PreparedStatement statement = connection.prepareStatement(sql)) {
